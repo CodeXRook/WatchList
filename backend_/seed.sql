@@ -55,5 +55,6 @@ INSERT INTO shows (title, img_url, user_id, genre_id)
 VALUES ('The Flash','https://image.tmdb.org/t/p/w370_and_h556_bestv2/jC1KqsFx8ZyqJyQa2Ohi7xgL7XC.jpg', 4, 1);
 INSERT INTO shows (title, img_url, user_id, genre_id)
 VALUES ('Naruto Shippuden', 'https://image.tmdb.org/t/p/w370_and_h556_bestv2/zAYRe2bJxpWTVrwwmBc00VFkAf4.jpg', 1, 4);
-INSERT INTO shows (title,img_url, user_id, genre_id)
+INSERT INTO shows (title, img_url, user_id, genre_id)
 VALUES ('Naruto Shippun','https://image.tmdb.org/t/p/w370_and_h556_bestv2/zAYRe2bJxpWTVrwwmBc00VFkAf4.jpg', 2, 4);
+INSERT INTO shows (title, img_url, user_id, genre_id)
