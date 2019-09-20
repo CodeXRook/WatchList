@@ -27,3 +27,6 @@ CREATE TABLE comments (
     user_id INT REFERENCES users(id),
     show_id INT REFERENCES shows(id)
 );
+
+--INSERT GENRES
+INSERT INTO genres (genre_name) VALUES ('Adventure'); --1
