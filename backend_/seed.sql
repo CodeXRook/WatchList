@@ -51,3 +51,4 @@ INSERT INTO shows(title, img_url, user_id, genre_id)
 VALUES ('The Flash','https://image.tmdb.org/t/p/w370_and_h556_bestv2/jC1KqsFx8ZyqJyQa2Ohi7xgL7XC.jpg',1, 1);
 INSERT INTO shows (title, img_url, user_id, genre_id)
 VALUES('The Flash', 'https://image.tmdb.org/t/p/w370_and_h556_bestv2/jC1KqsFx8ZyqJyQa2Ohi7xgL7XC.jpg', 3, 1);
+INSERT INTO shows (title, img_url, user_id, genre_id)
