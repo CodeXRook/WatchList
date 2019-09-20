@@ -42,4 +42,6 @@ INSERT INTO users (username) VALUES ('Pam Beesly'); -- 4
 
 -- INSERT SHOWS
 INSERT INTO shows (title, img_url, user_id, genre_id) 
-VALUES ('Game of Thrones', 'https://image.tmdb.org/t/p/w370_and_h556_bestv2/u3bZgnGQ9T01sWNhyveQz0wH0Hl.jpg',1 4);
+VALUES ('Game of Thrones', 'https://image.tmdb.org/t/p/w370_and_h556_bestv2/u3bZgnGQ9T01sWNhyveQz0wH0Hl.jpg', 1, 4);
+INSERT INTO shows (title, img_url, user_id, genre_id)
+VALUES ('Game of Thrones','https://image.tmdb.org/t/p/w370_and_h556_bestv2/u3bZgnGQ9T01sWNhyveQz0wH0Hl.jpg', 2, 4);
