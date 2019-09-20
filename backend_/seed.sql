@@ -1,6 +1,9 @@
 DROP DATABASE if exists backend_ish;
-CREATE DATABASE backend_ish;
+CREATE DATABASE tvlist;
 
-\c backend_ish 
+\c tvlist 
 
-CREATE TABLE users ();
+CREATE TABLE users (
+    id SERIAL PRIMARY KEY,
+    username VARCHAR NOT NULL
+);
