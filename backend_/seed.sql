@@ -22,5 +22,8 @@ CREATE TABLE shows (
 );
 
 CREATE TABLE comments (
-    
+    id SERIAL PRIMARY KEY,
+    comment_body VARCHAR NOT NULL,
+    user_id INT REFERENCES users(id),
+    show_id INT REFERENCES shows(id)
 );
