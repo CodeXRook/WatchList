@@ -58,3 +58,4 @@ VALUES ('Naruto Shippuden', 'https://image.tmdb.org/t/p/w370_and_h556_bestv2/zAY
 INSERT INTO shows (title, img_url, user_id, genre_id)
 VALUES ('Naruto Shippun','https://image.tmdb.org/t/p/w370_and_h556_bestv2/zAYRe2bJxpWTVrwwmBc00VFkAf4.jpg', 2, 4);
 INSERT INTO shows (title, img_url, user_id, genre_id)
+VALUES ('Grey Anatomy', 'https://image.tmdb.org/t/p/w370_and_h556_bestv2/eqgIOObafPJitt8JNh1LuO2fvqu.jpg', 3, 2);
