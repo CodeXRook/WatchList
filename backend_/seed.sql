@@ -69,3 +69,5 @@ VALUES ('The Simpson', 'https://image.tmdb.org/t/p/w370_and_h556_bestv2/yTZQkSsx
 --INSERT COMMENTS
 INSERT INTO comments (comment_body, user_id, show_id)
 VALUES ('BEST SHOW EVER!!', 1, 1);
+INSERT INTO comments (comment_body, user_id, show_id)
+VALUES ('This mf Jon wilding out here doee', 2, 1);
