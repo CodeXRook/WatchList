@@ -30,3 +30,4 @@ CREATE TABLE comments (
 
 --INSERT GENRES
 INSERT INTO genres (genre_name) VALUES ('Adventure'); --1
+INSERT INTO genres (genre_name) VALUES ('Drama');--2
