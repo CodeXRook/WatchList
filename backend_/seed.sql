@@ -64,3 +64,5 @@ VALUES ('Greys Anatomy', 'https://image.tmdb.org/t/p/w370_and_h556_bestv2/eqgIOO
 INSERT INTO shows (title, img_url, user_id, genre_id)
 VALUES ('The Simpsons','https://image.tmdb.org/t/p/w370_and_h556_bestv2/yTZQkSsxUFJZJe67IenRM0AEklc.jpg',1, 3);
 INSERT INTO shows (title, img_url, user_id, genre_id)
+VALUES ('The Simpson', 'https://image.tmdb.org/t/p/w370_and_h556_bestv2/yTZQkSsxUFJZJe67IenRM0AEklc.jpg', 4, 3);
+
