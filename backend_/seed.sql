@@ -20,3 +20,7 @@ CREATE TABLE shows (
     user_id INT REFERENCES users(id),
     genre_id INT REFERENCES genres (id)
 );
+
+CREATE TABLE comments (
+    
+);
