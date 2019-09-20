@@ -29,10 +29,11 @@ CREATE TABLE comments (
 );
 
 --INSERT GENRES
-INSERT INTO genres (genre_name) VALUES ('Adventure');--1
-INSERT INTO genres (genre_name) VALUES ('Drama');--2
-INSERT INTO genres (genre_name) VALUES ('Comedy');--3
-INSERT INTO genres (genre_name) VALUES ('Fantasy');--4
+INSERT INTO genres (genre_name) VALUES ('Adventure'); -- 1
+INSERT INTO genres (genre_name) VALUES ('Drama'); -- 2
+INSERT INTO genres (genre_name) VALUES ('Comedy'); -- 3
+INSERT INTO genres (genre_name) VALUES ('Fantasy'); -- 4
 
 --INSERT USERS
 INSERT INTO users (username) VALUES ('Jon Snow'); -- 1
+INSERT INTO users (username) VALUES ('Danerys Targaryen'); -- 2
