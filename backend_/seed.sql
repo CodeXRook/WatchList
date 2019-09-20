@@ -37,3 +37,4 @@ INSERT INTO genres (genre_name) VALUES ('Fantasy'); -- 4
 --INSERT USERS
 INSERT INTO users (username) VALUES ('Jon Snow'); -- 1
 INSERT INTO users (username) VALUES ('Danerys Targaryen'); -- 2
+INSERT INTO users (username) VALUES ('Michael Scott'); -- 3
